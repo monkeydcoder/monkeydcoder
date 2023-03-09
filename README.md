@@ -3,7 +3,7 @@
 </div>
 
 <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%f7f7f7f7ff&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Satyam+%F0%9F%91%8B;An+Eager+Problem+Solver" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=FF2D19&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Satyam+%F0%9F%91%8B;An+Eager+Problem+Solver" alt="Headline" />
 </div>
 
 <div id="badges" align="center">
@@ -40,7 +40,7 @@ Driven by a curiosity for innovation and a love for technology, I am a Computer 
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://worldvectorlogo.com/logo/python-5" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   
 </div>
 

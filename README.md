@@ -1,51 +1,93 @@
-<div align="center">
-  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="600", height="400"/>
-</div>
+<picture>
+  <source media="(max-width: 600px)" srcset="https://monkeydcoder.github.io/readme/banner-mobile.png">
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://monkeydcoder.github.io/readme/banner.png">
+  <img src="https://monkeydcoder.github.io/readme/banner.gif" width="100%" alt="Satyam Sharma. Reinforcement learning, Institute of Science Tokyo, MEXT Scholar. I build learning agents that work out what matters when the reward almost never comes. Animation: in a MiniGrid DoorKey grid, an agent picks up a key, unlocks a door and reaches the goal; the reward only arrives at the end.">
+</picture>
 
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=FF2D19&size=32&center=true&vCenter=true&width=600&height=50&lines=Hello+Geeks,+I'm+Satyam+%F0%9F%91%8B;An+Eager+Problem+Solver" alt="Headline" />
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/satyam-sharma-24463522a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Satyam_R_sharma">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=monkeydcoder&style=flat-square&color=blue"/>
-</div>
-<h3 align="center">"Tech Enthusiast with a Flair for Machine Learning, AI, Robotics, and Anime Adventures."</h3>
-
-
-### :man_technologist: About Me :
-
-Driven by a curiosity for innovation and a love for technology, I am a Computer Science major with a passion for using my problem-solving skills to create impactful products. My interests in entrepreneurship and AI fuel my desire to push boundaries and discover new ways to make a difference. In my free time, I enjoy indulging in anime and honing my communication skills to effectively convey my ideas and collaborate with others.
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=monkeydcoder" alt="monkeydcoder" /></a> </p>
-
-- 🔭 I’m currently working on **ML, DL**
-
-- 🌱 I’m currently learning **NLP, DL**
-
-- 💬 Ask me about **ML, NLP**
-
-- 📫 How to reach me **satyamsharma3002@gmail.com**
-
-- ⚡ Fun fact **My code is like Anime—full of intricate plots, unexpected twists, and a touch of creativity that brings characters to life in the digital realm!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satyam sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam sharma" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://monkeydcoder.github.io/"><img alt="Portfolio: monkeydcoder.github.io" src="https://img.shields.io/badge/Portfolio-monkeydcoder.github.io-ff6a4d?style=flat-square&labelColor=2a303d"></a>
+  <a href="https://www.linkedin.com/in/satyam-sharma-24463522a/"><img alt="LinkedIn: Satyam Sharma" src="https://img.shields.io/badge/LinkedIn-Satyam%20Sharma-0a66c2?style=flat-square&labelColor=2a303d"></a>
+  <a href="mailto:satyamsharma3002@gmail.com"><img alt="Email: satyamsharma3002@gmail.com" src="https://img.shields.io/badge/Email-satyamsharma3002%40gmail.com-5fbf8f?style=flat-square&labelColor=2a303d"></a>
+  <a href="https://monkeydcoder.github.io/Satyam_Sharma_Resume.pdf"><img alt="Résumé (PDF)" src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-f2b84b?style=flat-square&labelColor=2a303d"></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+I'm a first-year master's student at the **Institute of Science Tokyo**, researching reinforcement learning in [Prof. Ryutaro Ichise's lab](https://www.ai.iee.eng.isct.ac.jp/), and a **MEXT scholar** (one of 25 Indian nationals selected in 2025).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monkeydcoder&show_icons=true&locale=en&layout=compact" alt="monkeydcoder" /></p>
+My research asks what an agent should remember when rewards are rare, and whether it can find the important steps by itself, without anyone telling it what matters.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monkeydcoder&show_icons=true&locale=en" alt="monkeydcoder" /></p>
+### Research
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monkeydcoder&" alt="monkeydcoder" /></p>
+<sub>Ongoing master's thesis. The code and data stay private until publication.</sub>
+
+- **Memory as a learning signal.** PPO with swappable memories (a knowledge graph, an episodic memory and a visit counter) behind one potential-based reward-shaping interface. A memory bonus took MiniGrid DoorKey-8x8 from **3 to 22+ successful runs** out of 24 seeds.
+- **Finding the important events automatically.** A detector that knows nothing about keys or doors recovered **7 of 7** ground-truth event chains, with **zero false chains** on the control environments.
+- **Now:** a pre-registered benchmark of about 4,300 runs, testing whether automatically discovered chains speed up learning.
+
+[Read the full story on my site →](https://monkeydcoder.github.io/#research)
+
+### Selected projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/monkeydcoder/EduMind-AI"><img src="https://monkeydcoder.github.io/readme/edumind.jpg" width="100%" alt="EduMind AI home screen"></a>
+      <br><b>EduMind AI</b>
+      <br>Exam-prep platform on LLaMA 3 running locally.
+      <br><a href="https://github.com/monkeydcoder/EduMind-AI">Code</a> · <a href="https://www.loom.com/share/e604337fc4cf4cd2932a9fc64e80a56c">Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://monkeydcoder.github.io/#projects"><img src="https://monkeydcoder.github.io/readme/reel-vault.jpg" width="100%" alt="Reel Vault pipeline: reel, items, categories, map"></a>
+      <br><b>Reel Vault</b>
+      <br>Saved Instagram reels turned into mapped, searchable place cards.
+      <br><a href="https://monkeydcoder.github.io/#projects">Details</a> · code private
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/monkeydcoder/researchmate-ai"><img src="https://monkeydcoder.github.io/readme/researchmate.jpg" width="100%" alt="ResearchMate AI landing page"></a>
+      <br><b>ResearchMate AI</b>
+      <br>Research assistant that runs fully locally on Llama 3.
+      <br><a href="https://github.com/monkeydcoder/researchmate-ai">Code</a> · <a href="https://www.loom.com/share/f0cf23e5e03546e5875df76d9d26199b">Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://monkeydcoder.github.io/#projects"><img src="https://monkeydcoder.github.io/readme/earth-docker.jpg" width="100%" alt="Earth Docker classifier predicting a diseased cotton leaf"></a>
+      <br><b>Earth Docker</b>
+      <br>Farm robot with a 98%-accurate disease classifier. Won institute funding.
+      <br><a href="https://drive.google.com/file/d/1Da1-jJAbpxZg9HS9e9umZE9I9zp_5iUM/view">Video</a> · <a href="https://monkeydcoder.github.io/#projects">Details</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/monkeydcoder/KanjiPath"><img src="https://monkeydcoder.github.io/readme/kanjipath.jpg" width="100%" alt="KanjiPath dashboard"></a>
+      <br><b>KanjiPath</b>
+      <br>JLPT N5 and N4 study app with spaced repetition.
+      <br><a href="https://github.com/monkeydcoder/KanjiPath">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/monkeydcoder/3js_Portfolio"><img src="https://monkeydcoder.github.io/readme/anime-village.jpg" width="100%" alt="Night-time 3D anime village with a torii gate"></a>
+      <br><b>3D Anime Village</b>
+      <br>A Three.js walk through an anime village at dusk.
+      <br><a href="https://github.com/monkeydcoder/3js_Portfolio">Code</a>
+    </td>
+  </tr>
+</table>
+
+More, including an optimisation course project and my NLP notebooks, on [my portfolio](https://monkeydcoder.github.io/#projects).
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,opencv,linux,docker,git,githubactions&theme=dark&perline=9" alt="Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Linux, Docker, Git, GitHub Actions">
+  <br>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,ts,nodejs,express,nextjs,tailwind,threejs,raspberrypi&theme=dark&perline=9" alt="FastAPI, React, TypeScript, Node.js, Express, Next.js, Tailwind CSS, Three.js, Raspberry Pi">
+</p>
+
+Reinforcement learning: PPO, DQN, SAC, reward shaping, Stable-Baselines3, Gymnasium, MiniGrid.
+
+### Background
+
+- **M.S., Industrial Engineering and Economics**, Institute of Science Tokyo · since April 2026 · GPA 3.83 / 4.5
+- **Research student (MEXT)**, Ichise Laboratory · October 2025 to March 2026
+- **B.E. (Honours), Computer Science and Engineering**, SLIET, Punjab · 2021 to 2025 · CGPA 8.9 / 10
+
+Off the clock I'm learning Japanese (around JLPT N4), hiking, skiing, and keeping up with One Piece.

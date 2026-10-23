@@ -21,7 +21,8 @@ My research asks what an agent should remember when rewards are rare, and whethe
 
 - **Memory as a learning signal.** PPO with swappable memories (a knowledge graph, an episodic memory and a visit counter) behind one potential-based reward-shaping interface. A memory bonus took MiniGrid DoorKey-8x8 from **3 to 22+ successful runs** out of 24 seeds.
 - **Finding the important events automatically.** A detector that knows nothing about keys or doors recovered **7 of 7** ground-truth event chains, with **zero false chains** on the control environments.
-- **Now:** a pre-registered benchmark of about 4,300 runs, testing whether automatically discovered chains speed up learning.
+- **Using discovered chains in training.** A pre-registered test of **3,552 runs**. The detector found the correct chain in **48 of 48 runs** in each of five environments, with no false chain in 432 control runs, and the chain cut PPO's learning time **roughly in half** in UnlockPickup and ObstructedMaze.
+- **Now:** closing the gap to a perfect chain, which made PPO **6.5x to 7.5x faster** in those same environments.
 
 [Read the full story on my site →](https://monkeydcoder.github.io/#research)
 
